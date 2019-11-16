@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "C:/Users/Blair/Anaconda3/Lib/site-packages/rpy2/R/win-library/3.6"
+    }
+}
