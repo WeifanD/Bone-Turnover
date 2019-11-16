@@ -1,1 +1,3 @@
 GDC/ filter=lfs diff=lfs merge=lfs -text
+GDC/* filter=lfs diff=lfs merge=lfs -text
+*.7z filter=lfs diff=lfs merge=lfs -text
